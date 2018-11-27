@@ -13,14 +13,9 @@ https://github.com/h2ero/XEasyMotion/releases
 * <kbd>Enter</kbd>   click
 * <kbd>Shift</kbd> + <kbd>Enter</kbd>  right click
 * <kbd>CMD</kbd> + <kbd>i</kbd>   call XEasyMotion
-* <kbd>U</kbd>  undo
+* <kbd>u</kbd>  undo
 * <kbd>ESC</kbd>  exit
 
-## Todo
-There are many things to do.
-
-* hint by text, color or object (btn, label... etc)
-* add dotfile for config
 
 
 ## Related projects
